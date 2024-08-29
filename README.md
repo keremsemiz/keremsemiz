@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kerem!
-👩🏻‍🎓 High school student in Berlin, Germany
+👩🏻‍🎓 High school student in Berlin, Germany <br/>
 🌐 Focused on Web Develoment using React.tsx, as well as iOS Develoipment<br/>
 💭 Currently learning about Swift and C++<br/>
 
