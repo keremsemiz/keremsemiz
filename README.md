@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Kerem!
 👩🏻‍🎓 High school student in Berlin, Germany
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+🌐 Focused on Web Develoment using React.tsx, as well as iOS Develoipment<br/>
+💭 Currently learning about Swift and C++<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/keremsemiz/keremsemiz">
