@@ -1,7 +1,4 @@
-# 👋 Hi, I'm Kerem!
-👩🏻‍🎓 High school student in Berlin, Germany <br/>
-🌐 Focused on Web Develoment using React.tsx, as well as iOS Develoipment<br/>
-💭 Currently learning about Swift and C++<br/>
+# 👋 hi, i'm Kerem!
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/keremsemiz/keremsemiz">
